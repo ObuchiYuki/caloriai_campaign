@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/caloriai_campaign/static/css/main.8c4f749b.css",
-    "main.js": "/caloriai_campaign/static/js/main.9e34727b.js",
+    "main.js": "/caloriai_campaign/static/js/main.2a68b946.js",
     "index.html": "/caloriai_campaign/index.html",
     "main.8c4f749b.css.map": "/caloriai_campaign/static/css/main.8c4f749b.css.map",
-    "main.9e34727b.js.map": "/caloriai_campaign/static/js/main.9e34727b.js.map"
+    "main.2a68b946.js.map": "/caloriai_campaign/static/js/main.2a68b946.js.map"
   },
   "entrypoints": [
     "static/css/main.8c4f749b.css",
-    "static/js/main.9e34727b.js"
+    "static/js/main.2a68b946.js"
   ]
 }
